@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2858ee5a.chunk.css",
-    "main.js": "/static/js/main.5e5d8fd3.chunk.js",
-    "main.js.map": "/static/js/main.5e5d8fd3.chunk.js.map",
+    "main.css": "/static/css/main.30ac7cba.chunk.css",
+    "main.js": "/static/js/main.8256ff3d.chunk.js",
+    "main.js.map": "/static/js/main.8256ff3d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7cfc9c57.js",
     "runtime-main.js.map": "/static/js/runtime-main.7cfc9c57.js.map",
     "static/css/2.3f1e6f8c.chunk.css": "/static/css/2.3f1e6f8c.chunk.css",
-    "static/js/2.8e90835d.chunk.js": "/static/js/2.8e90835d.chunk.js",
-    "static/js/2.8e90835d.chunk.js.map": "/static/js/2.8e90835d.chunk.js.map",
+    "static/js/2.7012953a.chunk.js": "/static/js/2.7012953a.chunk.js",
+    "static/js/2.7012953a.chunk.js.map": "/static/js/2.7012953a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.3f1e6f8c.chunk.css.map": "/static/css/2.3f1e6f8c.chunk.css.map",
-    "static/css/main.2858ee5a.chunk.css.map": "/static/css/main.2858ee5a.chunk.css.map",
-    "static/js/2.8e90835d.chunk.js.LICENSE.txt": "/static/js/2.8e90835d.chunk.js.LICENSE.txt",
+    "static/css/main.30ac7cba.chunk.css.map": "/static/css/main.30ac7cba.chunk.css.map",
+    "static/js/2.7012953a.chunk.js.LICENSE.txt": "/static/js/2.7012953a.chunk.js.LICENSE.txt",
     "static/media/back.3d614467.svg": "/static/media/back.3d614467.svg",
     "static/media/comofunciona_01.fb2c4682.png": "/static/media/comofunciona_01.fb2c4682.png",
     "static/media/comofunciona_02.541d853d.png": "/static/media/comofunciona_02.541d853d.png",
@@ -22,6 +22,7 @@
     "static/media/ico-2.4b4ea04f.svg": "/static/media/ico-2.4b4ea04f.svg",
     "static/media/ico-3.2ecc3576.svg": "/static/media/ico-3.2ecc3576.svg",
     "static/media/ico-4.f050055d.svg": "/static/media/ico-4.f050055d.svg",
+    "static/media/ico-5.f4941b64.svg": "/static/media/ico-5.f4941b64.svg",
     "static/media/indust.5daac498.svg": "/static/media/indust.5daac498.svg",
     "static/media/line.31bd4ab7.svg": "/static/media/line.31bd4ab7.svg",
     "static/media/logoff.4493e470.svg": "/static/media/logoff.4493e470.svg",
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.7cfc9c57.js",
     "static/css/2.3f1e6f8c.chunk.css",
-    "static/js/2.8e90835d.chunk.js",
-    "static/css/main.2858ee5a.chunk.css",
-    "static/js/main.5e5d8fd3.chunk.js"
+    "static/js/2.7012953a.chunk.js",
+    "static/css/main.30ac7cba.chunk.css",
+    "static/js/main.8256ff3d.chunk.js"
   ]
 }
