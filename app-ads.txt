@@ -129,3 +129,8 @@ lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
 pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 436487936, RESELLER
 voisetech.com, 1066, RESELLER
+onetag.com, 5d1628750185ace, RESELLER
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4467, RESELLER
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
