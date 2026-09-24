@@ -306,3 +306,9 @@ pokkt.com, 6246, RESELLER, c45702d9311e25fd
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
 pubnative.net, 1009458, RESELLER, d641df8625486a7b
 pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
