@@ -1,3 +1,5 @@
+OWNERDOMAIN=andrebluz.github.io
+ironsrc.com, 691335, DIRECT
 bluexad.ai, 1996418805747683328, RESELLER
 smartadserver.com, 3964, RESELLER
 taurusx.com, 70097, RESELLER
